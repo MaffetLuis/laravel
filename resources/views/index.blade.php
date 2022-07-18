@@ -8,7 +8,7 @@
 <img src="{!! asset('images\fondo.png') !!}">
 
 </a>
-
+ 
 <div class="table container" >
 
     <h2 class="text-center mt-5">RESERVAR UNA CITA</h2>
